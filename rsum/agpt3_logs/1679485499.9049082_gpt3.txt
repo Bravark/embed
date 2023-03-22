@@ -1,0 +1,18 @@
+PROMPT:
+
+Use the following passage to give a detailed answer to the question:
+
+
+QUESTION: what is smelting in pyrometalurgy?
+
+
+PASSAGE: for further hydrometallurgical processing. The smelting of sulphidic ores produces a  partially oxidized metal concentrate (matte). In smelting, the worthless material, usually iron,  forms a slag with fluxing material and is converted into the oxide. The valuable metals acquire the  metallic form at the converting stage, which takes place in converting furnaces. This method is  used  in  copper  and  nickel  production.  Iron,  ferrochromium,  lead,  magnesium  and  ferrous  compounds are produced by reduction of the ore with charcoal and a flux (limestone), the smelting  process usually taking place in an electric furnace.  The high temperature required for the pyrometallurgical treatment of metals is obtained by burning  fossil fuels or by using the exothermic reaction of the ore itself (e.g., in the flash smelting process). The flash smelting process is an example of an energy-saving pyrometallurgical process in which  iron and sulphur of the ore concentrate are oxidized. The exothermic reaction coupled with a heat  recovery system saves a lot of energy for smelting. The high sulphur recovery of the process is  also beneficial for environmental protection. Most of the recently built copper and nickel smelters  use this process.  Hydrometallurgy  Hydrometallurgical  processes  includes  leaching,  precipitation,  electrolytic  reduction,  ion  exchange, membrane separation and solvent extraction. The first stage of hydrometallurgical  processes is the leaching of valuable metals from less valuable material, for example, with  sulphuric acid. Leaching is often preceded by pre-treatment (e.g., sulphating roasting). The  leaching process often requires high pressure, the addition of oxygen or high temperatures.  Leaching may also be carried out with electricity. From the leaching solution the desired metal or  its compound is recovered by precipitation or reduction using different methods.  Electrolysis of metals in aqueous solutions is also considered to be a hydrometallurgical process.  In the process of electrolysis the metallic ion is reduced to the metal. The metal is in a weak acid  solution from which it precipitates on cathodes under the influence of an electrical current. Most  non-ferrous metals can also be refined by electrolysis.  Often metallurgical processes are a combination of pyro- and hydrometallurgical processes,  depending on the ore concentrate to be treated and the type of metal to be refined. An example is  nickel production.  Copper
+
+
+DETAILED ANSWER:
+
+==========
+
+RESPONSE:
+
+Smelting is a process of heating the ore to a high temperature in order to extract the metal from it. The smelting of sulphidic ores produces a partially oxidized metal concentrate (matte). In smelting, the worthless material, usually iron, forms a slag with fluxing material and is converted into the oxide. The valuable metals acquire the metallic form at the converting stage, which takes place in converting furnaces. This method is used in copper and nickel production.

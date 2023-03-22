@@ -1,0 +1,18 @@
+PROMPT:
+
+Use the following passage to give a detailed answer to the question:
+
+
+QUESTION: what is smelting in pyrometalurgy?
+
+
+PASSAGE: Smelting and Refining of Cu, Pb, Zn, Ti and Ni    In the production and refining of metals, valuable components are separated from worthless  material in  a series of different physical  and chemical reactions. The end-product is metal  containing  controlled  amounts  of  impurities.  Primary  smelting  and  refining  produce  metals  directly from ore concentrates, while secondary smelting and refining produces metals from scrap  and process waste. Scrap includes bits and pieces of metal parts, bars, turnings, sheets and wire  that are off-specification or worn-out but are capable of being recycled  Overview of Processes  Two  metal  recovery  technologies  are  generally  used  to  produce  refined  metals, pyrometallurgical and hydrometallurgical.  Pyrometallurgical  processes  use  heat  to  separate desired metals from other materials. These processes use differences between oxidation  potentials, melting points, vapour pressures, densities and/or miscibility of the ore components  when melted.   Hydrometallurgical technologies differ from pyrometallurgical processes in that the desired metals  are  separated  from  other  materials  using  techniques  that  capitalize  on  differences  between  constituent solubilities and/or electrochemical properties in aqueous solutions.  Pyrometallurgy  During  pyrometallic  processing,  an  ore,  after  being beneficiated (concentrated  by  crushing,  grinding, floating and drying), is sintered or roasted (calcined) with other materials such as  baghouse dust and flux. The concentrate is then smelted, or melted, in a blast furnace in order to  fuse the desired metals into an impure molten bullion. This bullion then undergoes a third  pyrometallic process to refine the metal to the desired level of purity. Each time the ore or bullion  is heated, waste materials are created. Dust from ventilation and process gases may be captured in  a baghouse and are either disposed of or returned to the process, depending upon the residual metal  content. Sulphur in the gas is also captured, and when concentrations are above 4% it can be turned  into sulphuric acid. Depending upon the origin of the ore and its residual metals content, various  metals such as gold and silver may also be produced as by-products.  Roasting is an important pyrometallurgical process. Sulphating roasting is used in the production  of cobalt and zinc. Its purpose is to separate the metals so that they can be transformed into a water- soluble form
+
+
+DETAILED ANSWER:
+
+==========
+
+RESPONSE:
+
+Smelting is a process of extracting a metal from its ore by heating the ore to a high temperature. The process of smelting usually involves three steps: calcination, reduction, and purification. Calcination is the first step in smelting where the ore is heated to a high temperature (usually above 1000 degrees Celsius) in order to remove impurities such as water, carbon dioxide, and sulfur. The second step, reduction, is when the metals are actually extracted from the ore. This is done by heating the ore to a high temperature and introducing a reducing agent such as carbon. The third and final step, purification, is when the impurities are removed from the metal. This is done by adding an oxidizing agent such as oxygen to the metal and then heating it to a high temperature.

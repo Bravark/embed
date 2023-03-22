@@ -1,0 +1,793 @@
+Smelting and Refining of Cu, Pb, Zn, Ti and Ni 
+ 
+In the production and refining of metals, valuable components are separated from worthless 
+material in  a series of different physical  and chemical reactions. The end-product is metal 
+containing  controlled  amounts  of  impurities.  Primary  smelting  and  refining  produce  metals 
+directly from ore concentrates, while secondary smelting and refining produces metals from scrap 
+and process waste. Scrap includes bits and pieces of metal parts, bars, turnings, sheets and wire 
+that are off-specification or worn-out but are capable of being recycled 
+Overview of Processes 
+Two  metal  recovery  technologies  are  generally  used  to  produce  refined 
+metals, pyrometallurgical and hydrometallurgical.  Pyrometallurgical  processes  use  heat  to 
+separate desired metals from other materials. These processes use differences between oxidation 
+potentials, melting points, vapour pressures, densities and/or miscibility of the ore components 
+when melted.  
+Hydrometallurgical technologies differ from pyrometallurgical processes in that the desired metals 
+are  separated  from  other  materials  using  techniques  that  capitalize  on  differences  between 
+constituent solubilities and/or electrochemical properties in aqueous solutions. 
+Pyrometallurgy 
+During  pyrometallic  processing,  an  ore,  after  being beneficiated (concentrated  by  crushing, 
+grinding, floating and drying), is sintered or roasted (calcined) with other materials such as 
+baghouse dust and flux. The concentrate is then smelted, or melted, in a blast furnace in order to 
+fuse the desired metals into an impure molten bullion. This bullion then undergoes a third 
+pyrometallic process to refine the metal to the desired level of purity. Each time the ore or bullion 
+is heated, waste materials are created. Dust from ventilation and process gases may be captured in 
+a baghouse and are either disposed of or returned to the process, depending upon the residual metal 
+content. Sulphur in the gas is also captured, and when concentrations are above 4% it can be turned 
+into sulphuric acid. Depending upon the origin of the ore and its residual metals content, various 
+metals such as gold and silver may also be produced as by-products. 
+Roasting is an important pyrometallurgical process. Sulphating roasting is used in the production 
+of cobalt and zinc. Its purpose is to separate the metals so that they can be transformed into a water-
+soluble form for further hydrometallurgical processing. The smelting of sulphidic ores produces a 
+partially oxidized metal concentrate (matte). In smelting, the worthless material, usually iron, 
+forms a slag with fluxing material and is converted into the oxide. The valuable metals acquire the 
+metallic form at the converting stage, which takes place in converting furnaces. This method is 
+used  in  copper  and  nickel  production.  Iron,  ferrochromium,  lead,  magnesium  and  ferrous 
+compounds are produced by reduction of the ore with charcoal and a flux (limestone), the smelting 
+process usually taking place in an electric furnace. 
+The high temperature required for the pyrometallurgical treatment of metals is obtained by burning 
+fossil fuels or by using the exothermic reaction of the ore itself (e.g., in the flash smelting process). The flash smelting process is an example of an energy-saving pyrometallurgical process in which 
+iron and sulphur of the ore concentrate are oxidized. The exothermic reaction coupled with a heat 
+recovery system saves a lot of energy for smelting. The high sulphur recovery of the process is 
+also beneficial for environmental protection. Most of the recently built copper and nickel smelters 
+use this process. 
+Hydrometallurgy 
+Hydrometallurgical  processes  includes  leaching,  precipitation,  electrolytic  reduction,  ion 
+exchange, membrane separation and solvent extraction. The first stage of hydrometallurgical 
+processes is the leaching of valuable metals from less valuable material, for example, with 
+sulphuric acid. Leaching is often preceded by pre-treatment (e.g., sulphating roasting). The 
+leaching process often requires high pressure, the addition of oxygen or high temperatures. 
+Leaching may also be carried out with electricity. From the leaching solution the desired metal or 
+its compound is recovered by precipitation or reduction using different methods. 
+Electrolysis of metals in aqueous solutions is also considered to be a hydrometallurgical process. 
+In the process of electrolysis the metallic ion is reduced to the metal. The metal is in a weak acid 
+solution from which it precipitates on cathodes under the influence of an electrical current. Most 
+non-ferrous metals can also be refined by electrolysis. 
+Often metallurgical processes are a combination of pyro- and hydrometallurgical processes, 
+depending on the ore concentrate to be treated and the type of metal to be refined. An example is 
+nickel production. 
+Copper 
+Copper is mined in both open pits and underground mines, depending upon the ore grade and the 
+nature of the ore deposit. Copper ore typically contains less that 1% copper in the form of sulphide 
+minerals. Once the ore is delivered above the ground, it is crushed and ground to a powdery 
+fineness and then concentrated for further processing. In the concentration process, ground ore is 
+slurried with water, chemical reagents are added, and air is blown through the slurry. The air 
+bubbles attach themselves to the copper minerals and are then skimmed off the top of the flotation 
+cells. The concentrate contains between 20 and 30% copper. The tailings, or gangue minerals, from 
+the ore fall to the bottom of the cells and are removed, dewatered by thickeners and transported as 
+a slurry to a tailings pond for disposal. All water used in this operation, from dewatering thickeners 
+and the tailings pond, is recovered and recycled back into the process. 
+Copper can be produced either pyrometallurgically or hydrometallurgically depending upon the 
+ore-type used as a charge. The ore concentrates, which contain copper sulphide and iron sulphide 
+minerals, are treated by pyrometallurgical processes to yield high purity copper products. Oxide 
+ores, which contain copper oxide minerals that may occur in other parts of the mine, together with 
+other oxidized waste materials, are treated by hydrometallurgical processes to yield high purity 
+copper products. 
+Copper conversion from the ore to metal is accomplished by smelting. During smelting the 
+concentrates are dried and fed into one of several different types of furnaces. There the sulphide minerals are partially oxidized and melted to yield a layer of matte, a mixed copper-iron sulphide 
+and slag, an upper layer of waste. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+The matte is further processed by converting. The slag is tapped from the furnace and stored or 
+discarded in slag piles onsite. A small amount of slag is sold for railroad ballast and for sand 
+blasting grit. A third product of the smelting process is sulphur dioxide, a gas which is collected, 
+purified and made into sulphuric acid for sale or for use in hydrometallurgical leaching operations. 
+Following smelting, the copper matte is fed into a converter. During this process the copper matte 
+is poured into a horizontal cylindrical vessel (approximately 10ґ4 m) fitted with a row of pipes. 
+The pipes, known as tuyères, project into the cylinder and are used to introduce air into the 
+converter. Lime and silica are added to the copper matte to react with the iron oxide produced in 
+the process to form slag. Scrap copper may also be added to the converter. The furnace is rotated 
+so that the tuyères are submerged, and air is blown into the molten matte causing the remainder of 
+the iron sulphide to react with oxygen to form iron oxide and sulphur dioxide. Then the converter 
+is rotated to pour off the iron silicate slag. Once all of the iron is removed, the converter is rotated back and given a second blow of air during 
+which the remainder of the sulphur is oxidized and removed from the copper sulphide. The 
+converter is then rotated to pour off the molten copper, which at this point is called blister copper 
+(so named because if allowed to solidify at this point, it will have a bumpy surface due to the 
+presence of gaseous oxygen and sulphur). Sulphur dioxide from the converters is collected and fed 
+into the gas purification system together with that from the smelting furnace and made into 
+sulphuric acid. Due to its residual copper content, slag is recycled back to the smelting furnace. 
+Blister copper, containing a minimum of 98.5% copper, is refined to high purity copper in two 
+steps. The first step is fire refining, in which the molten blister copper is poured into a cylindrical 
+furnace, similar in appearance to a converter, where first air and then natural gas or propane are 
+blown through the melt to remove the last of the sulphur and any residual oxygen from the copper. 
+The  molten  copper  is  then  poured  into  a  casting  wheel  to  form  anodes  pure  enough  for 
+electrorefining. 
+In electrorefining, the copper anodes are loaded into electrolytic cells and interspaced with copper 
+starting sheets, or cathodes, in a bath of copper sulphate solution. When a direct current is passed 
+through the cell the copper is dissolved from the anode, transported through the electrolyte and re-
+deposited on the cathode starting sheets. When the cathodes have built-up to sufficient thickness 
+they are removed from the electrolytic cell and a new set of starting sheets is put in their place. 
+Solid impurities in the anodes fall to the bottom of the cell as a sludge where they are ultimately 
+collected and processed for the recovery of precious metals such as gold and silver. This material 
+is known as anode slime. 
+The cathodes removed from the electrolytic cell are the primary product of the copper producer 
+and contain 99.99+% copper. These may be sold to wire-rod mills as cathodes or processed further 
+to a product called rod. In manufacturing rod, cathodes are melted in a shaft furnace and the molten 
+copper is poured onto a casting wheel to form a bar suitable for rolling into a 3/8 inch diameter 
+continuous rod. This rod product is shipped to wire mills where it is extruded into various sizes of 
+copper wire. 
+In the hydrometallurgical process, the oxidized ores and waste materials are leached with sulphuric 
+acid from the smelting process. Leaching is performed in situ, or in specially prepared piles by 
+distributing acid across the top and allowing it to percolate down through the material where it is 
+collected. The ground under the leach pads is lined with an acid-proof, impermeable plastic 
+material to prevent leach liquor from contaminating groundwater. Once the copper-rich solutions 
+are collected they can be processed by either of two processes—the cementation process or the 
+solvent extraction/electrowinning process (SXEW). In the cementation process (which is rarely 
+used today), the copper in the acidic solution is deposited on the surface of scrap iron in exchange 
+for the iron. When sufficient copper has been cemented out, the copper-rich iron is put into the 
+smelter together with the ore concentrates for copper recovery via the pyrometallurgical route. 
+In the SXEW process, the pregnant leach solution (PLS) is concentrated by solvent extraction, 
+which extracts copper but not impurity metals (iron and other impurities). The copper-laden 
+organic solution is then separated from the leachate in a settling tank. Sulphuric acid is added to 
+the pregnant organic mixture, which strips the copper into an electrolytic solution. The leachate, 
+containing the iron and other impurities, is returned to the leaching operation where its acid is used for further leaching. The copper-rich strip solution is passed into an electrolytic cell known as an 
+electrowinning cell. An electrowinning cell differs from an electrorefining cell in that it uses a 
+permanent, insoluble anode. The copper in solution is then plated onto a starting sheet cathode in 
+much the same manner as it is on the cathode in an electrorefining cell. The copper-depleted 
+electrolyte is returned to the solvent extraction process where it is used to strip more copper from 
+the organic solution. The cathodes produced from the electrowinning process are then sold or made 
+into rods in the same manner as those produced from the electrorefining process. 
+Electrowinning cells are used also for the preparation of starting sheets for both the electrorefining 
+and electrowinning processes by plating the copper onto either stainless steel or titanium cathodes 
+and then stripping off the plated copper. 
+ 
+Hazards and Their Prevention 
+Prevention of health risks and accidents in the metallurgical industry is primarily an educational 
+and technical question. Medical examinations are secondary and have only a complementary role 
+in the prevention of health risks. A harmonious exchange of information and collaboration 
+between the planning, line, safety and occupational health departments within the company give 
+the most efficient result in the prevention of health risks. 
+The best and least costly preventive measures are those taken at the planning stage of a new plant 
+or process. In planning of new production facilities, the following aspects should be taken into 
+account as a minimum: 
+•  The potential sources of air contaminants should be enclosed and isolated. 
+•  The design and placement of the process equipment should allow easy access for maintenance 
+purposes. 
+•  Areas in which a sudden and unexpected hazard may occur should be monitored 
+continuously. Adequate warning notices should be included. For example, areas in which 
+arsine or hydrogen cyanide exposure might be possible should be under continuous 
+monitoring. 
+•  Addition and handling of poisonous process chemicals should be planned so that manual 
+handling can be avoided. 
+•  Personal occupational hygiene sampling devices should be used in order to evaluate the real 
+exposure of the individual worker, whenever possible. Regular fixed monitoring of gases, 
+dusts and noise gives an overview of exposure but has only a complementary role in the 
+evaluation of exposure dose. 
+•  In space planning, the requirements of future changes or extensions of the process should be 
+taken into account so that the occupational hygiene standards of the plant will not worsen. •  There should be a continuous system of training and education for safety and health 
+personnel, as well as for foremen and workers. New workers in particular should be 
+thoroughly informed about potential health risks and how to prevent them in their own 
+working environments. In addition, training should be done whenever a new process is 
+introduced. 
+•  Work practices are important. For example, poor personal hygiene by eating and smoking in 
+the worksite may considerably increase personal exposure. 
+•  The management should have a health and safety monitoring system which produces 
+adequate data for technical and economic decision making. 
+  
+The following are some of the specific hazards and precautions that are found in smelting and 
+refining. 
+Injuries 
+The smelting and refining industry has a higher rate of injuries than most other industries. 
+Sources of these injuries include: splattering and spills of molten metal and slag resulting in 
+burns; gas explosions and explosions from contact of molten metal with water; collisions with 
+moving locomotives, wagons, travelling cranes and other mobile equipment; falls of heavy 
+objects; falls from a height (e.g., while accessing a crane cab); and slipping and tripping injuries 
+from obstruction of floors and passageways. 
+Precautions include: adequate training, appropriate personal protective equipment (PPE) (e.g., 
+hard hats, safety shoes, work gloves and protective clothing); good storage, housekeeping and 
+equipment maintenance; traffic rules for moving equipment (including defined routes and an 
+effective signal and warning system); and a fall protection programme. 
+Heat 
+Heat stress illnesses such as heat stroke are a common hazard, primarily due to infrared radiation 
+from furnaces and molten metal. This is especially a problem when strenuous work must be done 
+in hot environments. 
+Prevention of heat illnesses can involve water screens or air curtains in front of furnaces, spot 
+cooling, enclosed air-conditioned booths, heat-protective clothing and air-cooled suits, allowing 
+sufficient time for acclimatization, work breaks in cool areas and an adequate supply of 
+beverages for frequent drinking. 
+Chemical hazards 
+Exposure to a wide variety of hazardous dusts, fumes, gases and other chemicals can occur 
+during smelting and refining operations. Crushing and grinding ore in particular can result in 
+high exposures to silica and toxic metal dusts (e.g., containing lead, arsenic and cadmium). There can also be dust exposures during furnace maintenance operations. During smelting operations, 
+metal fumes can be a major problem. 
+Dust and fume emissions can be controlled by enclosure, automation of processes, local and 
+dilution exhaust ventilation, wetting down of materials, reduced handling of materials and other 
+process changes. Where these are not adequate, respiratory protection would be needed. 
+Many smelting operations involve the production of large amounts of sulphur dioxide from 
+sulphide ores and carbon monoxide from combustion processes. Dilution and local exhaust 
+ventilation (LEV) are essential. 
+Sulphuric acid is produced as a by-product of smelting operations and is used in electrolytic 
+refining and leaching of metals. Exposure can occur both to the liquid and to sulphuric acid 
+mists. Skin and eye protection and LEV is needed. 
+The smelting and refining of some metals can have special hazards. Examples include nickel 
+carbonyl in nickel refining, fluorides in aluminium smelting, arsenic in copper and lead smelting 
+and refining, and mercury and cyanide exposures during gold refining. These processes require 
+their own special precautions. 
+Other hazards 
+Glare and infrared radiation from furnaces and molten metal can cause eye damage including 
+cataracts. Proper goggles and face shields should be worn. High levels of infrared radiation may 
+also cause skin burns unless protective clothing is worn. 
+High noise levels from crushing and grinding ore, gas discharge blowers and high-power electric 
+furnaces can cause hearing loss. If the source of the noise cannot be enclosed or isolated, then 
+hearing protectors should be worn. A hearing conservation program including audiometric 
+testing and training should be instituted. 
+Electrical hazards can occur during electrolytic processes. Precautions include proper electrical 
+maintenance with lockout/tagout procedures; insulated gloves, clothing and tools; and ground 
+fault circuit interrupters where needed. 
+Manual lifting and handling of materials can cause back and upper extremity injuries. 
+Mechanical lifting aids and proper training in lifting methods can reduce this problem. 
+Pollution and Environmental Protection 
+Emissions of irritant and corrosive gases like sulphur dioxide, hydrogen sulphide and hydrogen 
+chloride may contribute to air pollution and cause corrosion of metals and concrete within the 
+plant and in the surrounding environment. The tolerance of vegetation to sulphur dioxide varies 
+depending on the type of forest and soil. In general, evergreen trees tolerate lower concentrations 
+of sulphur dioxide than deciduous ones. Particulate emissions may contain non-specific 
+particulates, fluorides, lead, arsenic, cadmium and many other toxic metals. Wastewater effluent 
+may contain a variety of toxic metals, sulphuric acid and other impurities. Solid wastes can be 
+contaminated with arsenic, lead, iron sulphides, silica and other pollutants. Smelter management should include evaluation and control of emissions from the plant. This is 
+specialized work which should be carried out only by personnel thoroughly familiar with the 
+chemical properties and toxicities of the materials discharged from the plant processes. The 
+physical state of the material, the temperature at which it leaves the process, other materials in 
+the gas stream and other factors must all be considered when planning measures to control air 
+pollution. It is also desirable to maintain a weather station, to keep meteorological records and to 
+be prepared to reduce output when weather conditions are unfavourable for dispersal of stack 
+effluents. Field trips are necessary to observe the effect of air pollution on residential and 
+farming areas. 
+Sulphur dioxide, one of the major contaminants, is recovered as sulphuric acid when present in 
+sufficient quantity. Otherwise, to meet emission standards, sulphur dioxide and other hazardous 
+gaseous wastes are controlled by scrubbing. Particulate emissions are commonly controlled by 
+fabric filters and electrostatic precipitators. 
+Large amounts of water are used in flotation processes such as copper concentration. Most of this 
+water is recycled back into the process. Tailings from the flotation process are pumped as slurry 
+into sedimentation ponds. Water is recycled in the process. Metal-containing process water and 
+rainwater are cleaned in water-treatment plants before discharging or recycling. 
+Solid-phase wastes include slags from smelting, blowdown slurries from sulphur dioxide 
+conversion to sulphuric acid and sludges from surface impoundments (e.g., sedimentation 
+ponds). Some slags can be reconcentrated and returned to smelters for reprocessing or recovery 
+of other metals present. Many of these solid-phase wastes are hazardous wastes that must be 
+stored according to environmental regulations. 
+Copper Production Hazards and their prevention 
+The major hazards are exposure to ore dusts during ore processing and smelting, metal fumes 
+(including copper, lead and arsenic) during smelting, sulphur dioxide and carbon monoxide during 
+most smelting operations, noise from crushing and grinding operations and from furnaces, heat 
+stress from the furnaces and sulphuric acid and electrical hazards during electrolytic processes. 
+Precautions  include:  LEV  for  dusts  during  transfer  operations;  local  exhaust  and  dilution 
+ventilation for sulphur dioxide and carbon monoxide; a noise control and hearing protection 
+programme; protective clothing and shields, rest breaks and fluids for heat stress; and LEV, PPE 
+and electrical precautions for electrolytic processes. Respiratory protection is commonly worn to 
+protect against dusts, fumes and sulphur dioxide. Table 1. Process materials inputs and pollution 
+outputs for copper smelting and refining 
+ 
+ 
+ Process  Material input  Air emissions  Process  Other wastes 
+wastes 
+Copper  Copper ore,     Flotation  Tailings containing 
+concentration  water, chemical  wastewaters  waste minerals such 
+reagents,  as limestone and 
+thickeners  quartz 
+Copper leaching  Copper     Uncontrolled  Heap leach waste 
+concentrate,  leachate 
+sulphuric acid 
+Copper smelting  Copper  Sulphur dioxide,     Acid plant blowdown 
+concentrate,  particulate  slurry/sludge, slag 
+siliceous flux  matter  containing iron 
+containing  sulphides, silica 
+arsenic, 
+antimony, 
+cadmium, lead, 
+mercury and 
+zinc 
+Copper  Copper matte,  Sulphur dioxide,     Acid plant blowdown 
+conversion  scrap copper,  particulate  slurry/sludge, slag 
+siliceous flux  matter  containing iron 
+containing  sulphides, silica 
+arsenic, 
+antimony, 
+cadmium, lead, 
+mercury and 
+zinc 
+Electrolytic  Blister copper,        Slimes containing 
+copper refining  sulphuric acid  impurities such as 
+gold, silver, antimony, 
+arsenic, bismuth, iron, 
+lead, nickel, selenium, 
+sulphur and zinc 
+  
+ 
+ 
+ 
+ 
+ 
+ Lead 
+The primary lead production process consists of four steps: sintering, smelting, 
+drossing and pyrometallurgical refining. To begin, a feedstock comprising mainly 
+of lead concentrate in the form of lead sulphide is fed into a sintering machine. Other 
+raw materials may be added including iron, silica, limestone flux, coke, soda, ash, 
+pyrite, zinc, caustic and particulates gathered from pollution control devices. In the 
+sintering machine the lead feedstock is subjected to blasts of hot air which burn off 
+the sulphur, creating sulphur dioxide. The lead oxide material existing after this 
+process contains about 9% of its weight in carbon. The sinter is then fed along with 
+coke, various recycled and cleanup materials, limestone and other fluxing agents 
+into a blast furnace for reducing, where the carbon acts as a fuel and smelts or melts 
+the lead material. The molten lead flows to the bottom of the furnace where four 
+layers form: “speiss” (the lightest material, basically arsenic and antimony); “matte” 
+(copper sulphide and other metal sulphides); blast furnace slag (primarily silicates); 
+and lead bullion (98% lead, by weight). All layers are then drained off. The speiss 
+and matte are sold to copper smelters for recovery of copper and precious metals. 
+The blast furnace slag which contains zinc, iron, silica and lime is stored in piles and 
+partially recycled. Sulphur oxide emissions are generated in blast furnaces from 
+small quantities of residual lead sulphide and lead sulphates in the sinter feed. 
+Rough lead bullion from the blast furnace usually requires preliminary treatment in 
+kettles  before  undergoing  refining  operations.  During  drossing,  the  bullion  is 
+agitated in a drossing kettle and cooled to just above its freezing point (370 to 
+425°C). A dross, which is composed of lead oxide, along with copper, antimony and 
+other elements, floats to the top and solidifies above the molten lead. 
+The dross is removed and fed into a dross furnace for recovery of the non-lead useful 
+metals. To enhance copper recovery, drossed lead bullion is treated by adding 
+sulphur-bearing materials, zinc, and/or aluminium, lowering the copper content to 
+approximately 0.01%. 
+During the fourth step, the lead bullion is refined using pyrometallurgical methods 
+to remove any remaining non-lead saleable materials (e.g., gold, silver, bismuth, 
+zinc, and metal oxides such as antimony, arsenic, tin and copper oxide). The lead is 
+refined in a cast iron kettle by five stages. Antimony, tin and arsenic are removed 
+first. Then zinc is added and gold and silver are removed in the zinc slag. Next, the 
+lead is refined by vacuum removal (distillation) of zinc. Refining continues with the 
+addition of calcium and magnesium. These two materials combine with bismuth to 
+form an insoluble compound that is skimmed from the kettle. In the final step caustic 
+soda and/or nitrates may be added to the lead to remove any remaining traces of metal impurities. The refined lead will have a purity of 99.90 to 99.99% and may be 
+mixed with other metals to form alloys or it may be directly cast into shapes. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Table 2. Process materials inputs and pollution outputs for lead smelting and refining 
+Process  Material input  Air emissions  Process wastes  Other wastes 
+Lead sintering  Lead ore, iron,  Sulphur dioxide,       
+silica, limestone  particulate matter 
+flux, coke, soda,  contain-ing 
+ash, pyrite, zinc,  cadmium and 
+caustic,  lead 
+baghouse dust 
+Lead smelting  Lead sinter,  Sulphur dioxide,  Plant washdown  Slag containing 
+coke  particulate matter  wastewater, slag  impurities such as 
+contain-ing  granulation water  zinc, iron, silica 
+cadmium and  and lime, surface 
+lead  impoundment 
+solids Lead drossing  Lead bullion,        Slag containing 
+soda ash,  such impurities as 
+sulphur,  copper, surface 
+baghouse dust,  impoundment 
+coke  solids 
+Lead refining  Lead drossing          
+bullion 
+ 
+Zinc 
+Zinc concentrate is produced by separating the ore, which may contain as little as 2% zinc, from 
+waste rock by crushing and flotation, a process normally performed at the mining site. The zinc 
+concentrate is then reduced to zinc metal in one of two ways: either pyrometallurgically by 
+distillation (retorting in a furnace) or hydrometallurgically by electrowinning. The latter accounts 
+for approximately 80% of total zinc refining. 
+Four processing stages are generally used in hydrometallurgic zinc refining: calcining, leaching, 
+purification and electrowinning. Calcining, or roasting, is a high-temperature process (700 to 1000 
+°C) that converts zinc sulphide concentrate to an impure zinc oxide called calcine. Roaster types 
+include multiple-hearth, suspension or fluidized-bed. In general, calcining begins with the mixing 
+of zinc-containing materials with coal. This mixture is then heated, or roasted, to vaporize the zinc 
+oxide which is then moved out of the reaction chamber with the resulting gas stream. The gas 
+stream is directed to the baghouse (filter) area where the zinc oxide is captured in baghouse dust. 
+All of the calcining processes generate sulphur dioxide, which is controlled and converted to 
+sulphuric acid as a marketable process by-product. 
+Electrolytic processing of desulphurized calcine consists of three basic steps: leaching, purification 
+and electrolysis. Leaching refers to the dissolving of the captured calcine in a solution of sulphuric 
+acid to form a zinc sulphate solution. The calcine may be leached once or twice. In the double-
+leach method, the calcine is dissolved in a slightly acidic solution to remove the sulphates. The 
+calcine is then leached a second time in a stronger solution which dissolves the zinc. This second 
+leaching step is actually the beginning of the third step of purification because many of the iron 
+impurities drop out of the solution as well as the zinc. 
+After leaching, the solution is purified in two or more stages by adding zinc dust. The solution is 
+purified as the dust forces deleterious elements to precipitate so that they can be filtered out. 
+Purification is usually conducted in large agitation tanks. The process takes place at temperatures 
+ranging from 40 to 85°C and pressures ranging from atmospheric to 2.4 atmospheres. The elements 
+recovered during purification include copper as a cake and cadmium as a metal. After purification 
+the solution is ready for the final step, electrowinning. 
+Zinc electrowinning takes place in an electrolytic cell and involves running an electric current from 
+a lead-silver alloy anode through the aqueous zinc solution. This process charges the suspended 
+zinc and forces it to deposit onto an aluminium cathode which is immersed in the solution. Every 
+24 to 48 hours, each cell is shut down, the zinc-coated cathodes removed and rinsed, and the zinc mechanically stripped from the aluminium plates. The zinc concentrate is then melted and cast into 
+ingots and is often as high as 99.995% pure. 
+Electrolytic zinc smelters contain as many as several hundred cells. A portion of the electrical 
+energy is converted into heat, which increases the temperature of the electrolyte. Electrolytic cells 
+operate at temperature ranges from 30 to 35°C at atmospheric pressure. During electrowinning a 
+portion of the electrolyte passes through cooling towers to decrease its temperature and to 
+evaporate the water it collects during the process. 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Hazards and their prevention 
+The major hazards are exposure to ore dusts during ore processing and smelting, metal fumes 
+(including zinc and lead) during refining and roasting, sulphur dioxide and carbon monoxide 
+during most smelting operations, noise from crushing and grinding operations and from furnaces, 
+heat  stress  from  the  furnaces  and  sulphuric  acid  and  electrical  hazards  during  electrolytic 
+processes. Precautions  include:  LEV  for  dusts  during  transfer  operations;  local  exhaust  and  dilution 
+ventilation for sulphur dioxide and carbon monoxide; a noise control and hearing protection 
+programme; protective clothing and shields, rest breaks and fluids for heat stress; and LEV, PPE, 
+and electrical precautions for electrolytic processes. Respiratory protection is commonly worn to 
+protect against dusts, fumes and sulphur dioxide. 
+Table 3. Process materials inputs and pollution outputs for zinc smelting and refining 
+Process  Material input  Air emissions  Process wastes  Other wastes 
+Zinc calcining  Zinc ore, coke  Sulphur     Acid plant 
+dioxide,  blowdown slurry 
+particulate 
+matter 
+containing zinc 
+and lead 
+Zinc leaching  Zinc calcine,     Wastewaters    
+sulphuric acid,  containing 
+limestone, spent  sulphuric acid 
+electrolyte 
+Zinc purification  Zinc-acid     Wastewaters  Copper cake, 
+solution, zinc  containing  cadmium 
+dust  sulphuric acid, 
+iron 
+Zinc  Zinc in a     Dilute sulphuric  Electrolytic cell 
+electrowinning  sulphuric  acid  slimes/sludges 
+acid/aqueous 
+solution, lead-
+silver alloy 
+anodes, 
+aluminium 
+cathodes, barium 
+carbonate or 
+strontium, 
+colloidal additives 
+ 
+Titanium 
+Synthetic rutile is a chemically modified form of ilmenite which has had most of the iron removed. 
+The product’s composition is between 85 and 95 per cent titanium dioxide (TiO ). The upgraded 
+2
+TiO  products are similar to naturally formed rutile. Ilmenite, an iron/titanium oxide mineral, can 
+2
+be upgraded to synthetic rutile (or upgraded ilmenite) containing between 85 and 95 per cent highly 
+valued titanium dioxide. Iluka has four synthetic rutile kilns with a combined capacity of 500 – 
+550 thousand tonnes per annum. The ilmenite used in the process generally has between 57 and 
+60 per cent TiO  and yields about 0.6 tonnes of SR for every tonne of ilmenite used. The main 
+2objective of the process is to remove the iron component of the ilmenite by reducing it to metal 
+and “leaching” it to leave an upgraded titania product. This process is known as the Becher Process, 
+after its inventor, Dr Robert Becher, who developed the process in Western Australia in 1961. The 
+process was commercialised by Iluka’s predecessor company, RGC, in 1969 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+Titanium (Ti) is a soft, ductile, silvery gray metal with a melting point of 1,675 °C (3,047 °F). 
+Owing to the formation on its surface of an oxide film that is relatively inert chemically, it has 
+excellent corrosion resistance in most natural environments. In addition, it is light in weight, with 
+a density (4.51 grams per cubic centimetre) midway between aluminum and iron. Its combination 
+of low density and high strength gives it the most efficient strength-to-weight ratio of common 
+metals for temperatures up to 600 °C (1,100 °F). 
+Because its atomic diameter is similar to many common metals such as aluminum, iron, tin, and 
+vanadium, titanium can easily be alloyed to improve its properties. Like iron, the metal can exist 
+in two crystalline forms: hexagonal close-packed (hcp) below 883 °C (1,621 °F) and body-centred 
+cubic (bcc) at higher temperatures up to its melting point. This allotropic behaviour and the 
+capacity to alloy with many elements result in titanium alloys that have a wide range of mechanical 
+and corrosion-resistant properties. Although titanium ores are abundant, the high reactivity of the metal  with  oxygen, nitrogen, and hydrogen in  the air at  elevated temperatures necessitates 
+complicated and therefore costly production and fabrication processes. Titanium ore was first 
+discovered in 1791 in Cornish beach sands by an English clergyman, William Gregor. The actual 
+identification of the oxide was made a few years later by a German chemist, M.H. Klaproth. 
+Klaproth gave the metal constituent of this oxide the name titanium, after the Titans, the giants 
+of Greek mythology.  
+Pure metallic titanium was first produced in either 1906 or 1910 by M.A. Hunter at Rensselaer 
+Polytechnic Institute (Troy, New York, U.S.) in cooperation with the General Electric Company. 
+These researchers believed titanium had a melting point of 6,000 °C (10,800 °F) and was therefore 
+a candidate for incandescent-lamp filaments, but, when Hunter produced a metal with a melting 
+point closer to 1,800 °C (3,300 °F), the effort was abandoned. Nevertheless, Hunter did indicate 
+that the metal had some ductility, and his method of producing it by reacting titanium tetrachloride 
+(TiCl ) with sodium under vacuum was later commercialized and is now known as the Hunter 
+4
+process. Metal of significant ductility was produced in 1925 by the Dutch scientists A.E. van Arkel 
+and J.H. de Boer, who dissociated titanium tetraiodide on a hot filament in an evacuated glass bulb. 
+In 1932 William J. Kroll of Luxembourg produced significant quantities of ductile titanium by 
+combining TiCl  with calcium. By 1938 Kroll had produced 20 kilograms (50 pounds) of titanium 
+4
+and was convinced that it possessed excellent corrosion and strength properties. At the start 
+of World War II he fled Europe and continued his work in the United States at the Union Carbide 
+Company and later at the U.S. Bureau of Mines. By this time, he had changed the reducing agent 
+from calcium to magnesium metal. Kroll is now recognized as the father of the modern titanium 
+industry, and the Kroll process is the basis for most current titanium production. A U.S. Air 
+Force study conducted in 1946 concluded that titanium-based alloys were engineering materials 
+of potentially great importance, since the emerging need for higher strength-to-weight ratios in 
+jet aircraft structures and engines could not be satisfied efficiently by either steel or aluminum. As 
+a result, the Department of Defense provided production incentives to start the titanium industry 
+in 1950. Similar industrial capacity was founded in Japan, the U.S.S.R., and the United Kingdom. 
+After this impetus was provided by the aerospace industry, the ready availability of the metal gave 
+rise to opportunities for new applications in other markets, such as chemical processing, medicine, 
+power generation, and waste treatment. 
+ 
+ 
+Ores 
+ 
+Titanium is the fourth most abundant structural metal on Earth, exceeded only by aluminum, iron, 
+and magnesium.  Workable  mineral  deposits  are  dispersed  worldwide  and  include  sites 
+in Australia,  the  United  States,   Canada,   South  Africa,   Sierra 
+Leone, Ukraine, Russia, Norway, Malaysia, and several other countries. 
+  
+Rutile; pyrophylliteRutile on pyrophyllite from Mono County, California.B.M. Shaub 
+The predominate minerals are rutile, which is about 95 percent titanium dioxide (TiO ), and 
+2
+ilmenite (FeTiO ), which contains 50 to 65 percent TiO . A third mineral, leucoxene, is an 
+3 2
+alteration of ilmenite from which a portion of the iron has been naturally leached. It has no specific 
+titanium content. Titanium minerals occur in alluvial and volcanic formations. Deposits usually 
+contain between 3 and 12 percent heavy minerals, consisting of ilmenite, rutile, leucoxene, zircon, 
+and monazite.  
+ 
+Mining And Concentrating 
+Although workable known reserves of rutile are diminishing, ilmenite deposits are abundant. 
+Typical mining is by open pit. A suction bucket wheel on a floating dredge supplies a mineral-rich 
+sand to a set of screens called trommels, which remove unwanted materials. Typically, the minerals 
+are separated from waste material by gravity separation in a wet spiral concentrator. The resulting 
+concentrates are separated by passing them through a complex series of electrostatic, magnetic, 
+and gravity equipment.   
+Extraction and Refining -TiCl
+4 
+ 
+The  production  of  titanium  metal  accounts  for  only  5  percent  of  annual  titanium  mineral 
+consumption; the rest goes to the titanium pigment industry. Pigments are produced using either 
+a sulfate process or a more environmentally acceptable carbo-chlorination process (described 
+below) that converts TiO  into TiCl . The latter process also supplies the TiCl  necessary for the 
+2 4 4
+production of titanium metal. 
+Environmental and economic constraints dictate that the ore feed stocks converted by carbo-
+chlorination processes now in use contain greater than 90 percent TiO . Only natural rutile meets 
+2
+this requirement, but ilmenite can be upgraded through combinations of pyrometallurgical and 
+hydrometallurgical techniques to produce a synthetic rutile of 90 to 93 percent TiO . In addition, 
+2
+titaniferous magnetite ores can be smelted to produce pig iron and titanium-rich slags. Rutile, leucoxene, synthetic rutile, and slag can then be mixed to provide a feed stock of more than 90 
+percent TiO  for the chlorination process. 
+2
+In the first step of this process, the oxide ores are reacted with chlorine in a fluidized bed of 
+petroleum coke. Oxygen combines with carbon (C) in the coke to produce carbon monoxide (CO) 
+and carbon dioxide (CO ), while the titanium and chlorine react to form a gaseous TiCl , as in the 
+2 4
+following reaction: 
+ 
+(The X and Y represent variable quantities whose ratio depends on the reaction temperature, which 
+varies between 850 and 1,000 °C [1,550 and 1,800 °F].) The raw TiCl  is cleaned of fine particles 
+4
+of entrained coke and titanium ore, and then it is liquified and passed through a distillation column 
+to remove volatile impurities of both high and low boiling points. Vanadium oxychloride, an 
+impurity with a boiling point similar to TiCl , is stripped from the product stream by reaction 
+4
+with mineral oil. The TiCl  is then redistilled to remove other impurities in a reflux distillation 
+4
+column. This process produces TiCl  of a purity exceeding 99.9 percent. Since any contaminants 
+4
+in the TiCl  would later be reduced along with the titanium metal, high-quality TiCl  must be 
+4 4
+produced to achieve high-quality metal. 
+ 
+Titanium sponge 
+ 
+In the production of titanium pigments, the TiCl  would be reoxidized to  TiO , but, in  the 
+4 2
+production of titanium metal, it is reduced with either sodium (Na) in the Hunter process or with 
+magnesium (Mg) in the Kroll process: 
+ 
+These reactions take place in large, sealed steel vessels at approximately 800 to 1,000 °C (1,450 
+to 1,800 °F) in an inert argon atmosphere to avoid contamination of the final product by air or 
+moisture. Both processes produce titanium in the form of a highly porous material called sponge, 
+with the salts NaCl or MgCl  entrapped in the pores. The sponge is crushed, and the metal and 
+2
+salts are separated by either a dilute acid leach or by high-temperature vacuum distillation. The 
+salts are recycled through electrolytic cells to produce sodium or magnesium for reuse in metal 
+reduction and chlorine for reuse in chlorination of the ore. A different process that offers hope for 
+an improved and simplified method of producing titanium metal is the direct electrowinning of 
+titanium from TiCl  in fused chloride salt baths. In this case, titanium sponge collects on a steel 
+4
+cathode, and chlorine gas is given off at the carbon anode. The required use in this process of high-
+melting-point salts, combined with the need for maintaining an inert environment, present major 
+technical and economical hurdles that have to be overcome in order to achieve commercial status. 
+ 
+Titanium Ingot 
+The conversion of purified titanium sponge to a form useful for structural purposes involves 
+several steps. Consolidation into titanium ingot is performed in a vacuum or argon environment 
+by the consumable-electrode arc-melting process. Sponge, alloying elements, and in some cases 
+recycled scrap are first mechanically compacted and then welded into a long, cylindrical electrode. The electrode is melted vertically into a water-cooled copper crucible by passing an electric 
+current through it. To ensure uniform distribution of alloying elements, this primary ingot is 
+remelted at least once in a similar manner. Ingots weigh between 4 and 10 tons and are up to 1,050 
+millimetres (42 inches) in diameter. 
+Cold-hearth melting is an alternate consolidation process that is conducted inside an argon or 
+vacuum chamber containing a water-cooled, horizontal copper crucible. Heating is accomplished 
+by multiple electron-beam or by argon/helium plasma torches. The molten metal flows in a 
+horizontal path over the lip of the hearth into a suitably shaped, water-cooled copper mold. The 
+cold-hearth process is well suited to separating high-density contaminants, which settle to the 
+bottom of the hearth. For this reason, it is used primarily to recycle titanium scrap, which can 
+contain carbide tool bits left over from machining operations. Consolidated ingots are processed 
+into mill products such as bar, billet, wire, tubing, plate, and sheet by traditional steel facilities. 
+Using the common phases present at room temperature, titanium alloys are divided into four 
+classes: commercially pure, alpha, alpha-beta, and beta. Each class has distinctive characteristics. 
+Pure titanium, although very ductile, has low strength and is therefore used when strength is not 
+critical and corrosion resistance is desired. The alpha alloys are weldable and have good elevated-
+temperature strengths. The alpha-beta alloys are widely used because of their good combinations 
+of strength, toughness, and formability. The beta alloys are useful where very high tensile strengths 
+are required. 
+There are three important markets for titanium metal: aerospace, nonaerospace industries, and 
+alloy additives. The aerospace and industrial markets utilize mill products, while the alloy-additive 
+market consumes lower-cost titanium units such as scrap and sponge. Small additions of titanium 
+(less than 1 percent) are added to other metals such as nickel, aluminum, and iron in order to 
+improve formability and mechanical properties. 
+ 
+Aerospace applications 
+ 
+The  aerospace  market  is  still  the  most  important,  with  titanium  products  being  used  in 
+both commercial and military aircraft. Gas turbines account for nearly half of annual titanium 
+production.  Titanium  alloys  are  utilized  principally  in  the  fan  and  compressor  sections  at 
+temperatures up to 600 °C. Typical parts include inlet cases, compressor blades, disks, and hubs, 
+as well as spacers and seals. The large high-bypass turbofan engines utilized on wide-body 
+commercial airliners could not have been developed without strong, lightweight titanium alloys. 
+These engines are greater than 25 percent by weight titanium. 
+ 
+Titanium alloys are also utilized in airframes because of their high strength-to-weight ratios, good 
+toughness, and corrosion resistance. The titanium content of airframes can range from as low as 2 
+percent to as high as 30 percent by weight. Typical commercial airframes are 4 to 8 percent 
+titanium, while many military aircraft contain greater amounts. The metal is used in fasteners, 
+landing-gear supports, springs, fail-safe straps, and numerous internal bulkhead and wing-support 
+components. 
+ 
+ Non aerospace applications 
+The resistance of titanium to many corrosive environments, particularly oxidizing and chloride-
+containing process streams, has led to widespread industrial applications. Titanium is resistant to 
+all natural environments, including natural waste products, body fluids, and salt and brackish 
+water; to most salt solutions, including chlorides, bromides, iodides, and sulfides; and to most 
+oxidizing acids, organic acids, and alkaline solutions. 
+When strength is not a major consideration, commercially pure titanium is the material of choice 
+because of its lower cost, ease of fabrication, and good corrosion resistance. Alloyssuch as Ti–
+0.15Pd, Ti–0.3Mo–0.8Ni, and Ti–3Al–8V–6Cr–4Mo–4Zr can extend the usefulness of the metal 
+to either higher temperatures or stronger concentrations of reducing acids and acidic salts. In recent 
+years, more high-strength alloys have been utilized for corrosion applications. For example, Ti–
+6Al–4V, a versatile alloy that was developed in the 1950s for the aerospace industry, has become 
+a very important material for medical prostheses such as hip-joint replacements because of its 
+strength-to-weight  ratio  and  immunity  to  body  fluids.  Ti–3Al–8V–6Cr–4Mo–4Zr,  an  even 
+stronger alloy, also has excellent resistance to high-temperature sour gas (natural gas containing 
+hydrogen sulfide) and is therefore used in energy extraction for downhole tubing and casings and 
+for instrumentation. 
+Several industrial processes have been improved as a result of the availability of titanium. After 
+titanium was introduced as a replacement for stainless-steel diffusion washers in the pulp and 
+paper industry, the metal’s excellent performance encouraged the design of new displacement 
+bleaching systems using up to 35 tons of titanium components. Typical parts include diffusers, 
+central shafts, scrapers, filtrate pumps, heat exchangers, packing boxes, and valves. In the early 
+1960s it was discovered that coating titanium with a platinum-group metal or metal oxide produced 
+an anode (a negatively charged electrode) that was slow to corrode in electrolytic solutions. Coated 
+titanium anodes soon replaced graphite anodes in the chlorine industry, resulting in lower costs 
+and  products  of  higher  purity.  Extensions  of  this technology are  now  being  applied  to 
+electrogalvanizing and tin-coating processes. 
+Chemical-process industries utilize titanium heat exchangers to  eliminate corrosion problems 
+caused by cooling waters containing chloride and sulfide, and several benefits can accrue from 
+employing titanium on the process side of heat exchangers as well. Because the metal is resistant 
+to erosion corrosion, titanium vessels can be subjected to process liquids flowing at high rates, 
+thereby eliminating the danger of biofouling. In addition, titanium is the only metal known to be 
+completely resistant to all forms of biofouling corrosion. These advantages, along with its light 
+weight, make the metal desirable for heat exchangers in naval vessels and offshore oil platforms. 
+Titanium  is  gaining  greater  recognition  in  consumer  applications,  such  as  eyeglass  frames, 
+watches, sports equipment, jewelry, high-performance automobiles, and roofing. Other possible 
+applications include valves for automobile engines, scrubbers for flue-gas desulfurization, marine 
+and offshore risers, joints and fittings, and nuclear-waste storage and transportation casks. 
+Ferro Nickel Production 
+Ferronickel is vital importance to modern society. It is because ferronickel is main feedstock in 
+stainless steel production. Without stainless steel, we would not be able to enjoy many of the 
+things that we take for granted, such as stainless-steel appliances in our home and workplaces 
+and computer.  There are two types of nickel ore on earth: nickel sulfide and nickel oxide. Nickel oxide ore is 
+usually called laterite, which represents 61% nickel ore on earth and 40% of world is in the form 
+of laterite. Laterite ore normally classified into two groups: 
+Limonite, which occur near the surface and easily mined. Limonite layer consists of a mixture of 
+minerals that have a high iron and low MgO content. The general formula of goethite, 
+(Fe,Ni)OOH, is used to represent limonite ores in chemical reactions. Saprolite, occur below 
+limonite on the earth crust and the saprolite ores have a low iron and a high MgO content. 
+Because it is further from the surface, it is less weathered or chemically altered, than limonite. 
+The minerals found in this layer are magnesium and hydroxysilicates with generic formula of  
+(Mg[Ni,Co] Si O (OH) , is used to represent saprolite ores in chemical reactions. 
+3 2 5 4
+Feed material for ferronickel production is predominantly Saprolite, rather than Limonite. This is 
+because the iron content of the saprolite ore about 15% Fe, is lower than that of limonite ore. The 
+choice of saprolite ore ensures that the ferronickel product is not excessively diluted by iron. 
+Production process of ferronickel consists of four main steps. 
+Drying: elimination of most or a substantial portion of free moisture content of the nickel ore 
+Calcination-reduction: elimination of the remainder of the free ore moisture and its crystalline 
+water, preheating of the ore, and reduction of a substantial portion of the nickel and a controlled 
+portion of the iron 
+Electric furnace smelting: completion of reduction of the nickel separation of the product 
+ferronickel 
+Refining: elimination of undesirable minor elements from the ferronickel to meet market 
+specification 
+Production of ferro-nickel by pyrometallurgical process is still the most widely utilized method 
+for the processing of nickel lateritic ores. The Ni-content of lateritic ore is normally low and in the 
+range of 0.8 - 3 %. The most important production route is the RKEF (rotary kiln - electric furnace) 
+process. For this route lateritic ore is screened, crushed and blended to produce a consistent process 
+plant feed with defined ratios of iron and nickel as well as Si0  and MgO. This feed is charged into 
+2
+a rotary kiln where it is calcined and pre-reduced by coal or powdered coke. Afterwards the calcine 
+and residual coke is charged into the electric furnace (also named submerged arc furnace (SAF)). 
+Here it is melted by electric energy and reduced yielding crude FeNi with Ni contents usually 
+between 13 and 25 %. Unreduced components (mainly FeO, Si02, MgO) are removed as slag 
+whereas crude FeNi metal is tapped semi-continuously into ladles. 
+This crude metal contains undesirable tramp elements such as sulfur, phosphorous, carbon and 
+silicon. Especially sulfur and phosphorous are very unwanted in the steel production where most of the FeNi is used as alloying element. Therefore, the tramp elements must be removed before 
+the FeNi is cast into bars or granulated. Low carbon contents are necessary to minimize the carbon 
+input during steel production, which would lead to longer treatment times in the stainless-steel 
+refining process. Due to differences in the lateritic deposits regarding nickel oxide and iron oxide 
+content,  the  content  of  impurities,  sulfur  content  in  the  reductant  coke  etc.  the  chemical 
+composition of the crude FeNi varies widely (e.g. carbon content can be up to 2 %, sulfur content 
+up to 1 %).

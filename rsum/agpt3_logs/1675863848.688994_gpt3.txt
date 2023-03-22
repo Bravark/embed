@@ -1,0 +1,13 @@
+PROMPT:
+
+Write a concise summary of the following:
+
+Electrowinning of copper onto steel wool cathodes from solution of copper sulfate and sulfuric acid. 6. Casting of anodes from electrolytic refining tank house slimes.  The process of extracting copper from ore is known as smelting. Copper is typically extracted from oxide and sulfide ores that contain between 0.5 and 2.0% copper. The first step in the smelting process is to concentrate the ore, which typically contains between 0.5 and 2.0% copper, into a more concentrated form. The ore is then roasted in a furnace to convert the sulfides into oxides, which are then smelted in a furnace to produce copper metal.  Copper is usually extracted from its ores by heating the ore in a furnace, along with a source of oxygen, such as air. This process, known as smelting, separates the metal from impurities in the ore. The resulting "blister copper" still contains impurities, which are removed in a process called "refining." In this process, the copper is heated in air to a temperature of over 1000 degrees Celsius. This causes the impurities to be oxidized, or burned off, leaving the metal in a purer state.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+The process of extracting copper from ore is known as smelting. Copper is typically extracted from oxide and sulfide ores that contain between 0.5 and 2.0% copper. The first step in the smelting process is to concentrate the ore, which typically contains between 0.5 and 2.0% copper, into a more concentrated form. The ore is then roasted in a furnace to convert the sulfides into oxides, which are then smelted in a furnace to produce copper metal. Copper is usually extracted from its ores by heating the ore in a furnace, along with a source of oxygen, such as air. This process, known as smelting, separates the metal from impurities in the ore. The resulting "blister copper" still contains impurities, which are removed in a process called "refining." In this process, the copper is heated in air to a temperature of over 1000 degrees Celsius. This causes the impurities to be oxidized, or burned off, leaving the metal in a purer state.

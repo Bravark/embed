@@ -1,0 +1,13 @@
+PROMPT:
+
+The following IS an extracted text for the Question: list the steps of extracting copper Write a concise summary in a way that answers the question:
+ 
+anodes fall to the bottom of the cell as a sludge where they are ultimately collected and processed for the recovery of precious metals such as gold and silver. This material is known as anode slime.  1. Copper ore is mined and then transported to a copper smelter. 2. At the smelter, the ore is heated and mixed with other materials such as limestone, quartz, and silica. 3. This mixture is then melted and poured into a mold to create copper ingots. 4. The ingots are then transported to a copper refinery. 5. At the refinery, the ingots are melted and mixed with sulfuric acid. 6. This mixture is then passed through an electrolytic process to extract the copper. 7. The copper is then cast into molds to create Copper bars.
+
+DETAILED SUMMARY:
+
+==========
+
+RESPONSE:
+
+1. Copper ore is mined and then transported to a copper smelter. 2. At the smelter, the ore is heated and mixed with other materials such as limestone, quartz, and silica. 3. This mixture is then melted and poured into a mold to create copper ingots. 4. The ingots are then transported to a copper refinery. 5. At the refinery, the ingots are melted and mixed with sulfuric acid. 6. This mixture is then passed through an electrolytic process to extract the copper. 7. The copper is then cast into molds to create Copper bars.
